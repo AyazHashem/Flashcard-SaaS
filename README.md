@@ -1,3 +1,5 @@
+The file is unable to run online, but works when run locally, be sure to create an .env.local for the Llama API, as well as Stripe and Clerk APIs.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
